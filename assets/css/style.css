@@ -2248,7 +2248,9 @@ label {
   box-shadow: var(--box-shadow);
   z-index: 1;
 }
-
+.feature-item:hover{
+  background-color: rgb(247, 255, 201);
+}
 .feature-item .count{
   position: absolute;
   right: 30px;
@@ -2882,7 +2884,7 @@ label {
 
 .cta-area{
   position: relative;
-  background-image: url(../img/cta/01.jpg);
+  background-image: url(../img/cta/3.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
