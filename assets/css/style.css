@@ -119,7 +119,8 @@ Table of contents
   --border-info-color2: rgba(0, 0, 0, 0.05);
   --border-white-color: rgba(255, 255, 255, 0.08);
   --border-white-color2: rgba(255, 255, 255, 0.05);
-  --footer-bg: #012758;
+  /* --footer-bg: #012758; */
+  --footer-bg: #661622;
   --footer-bg2: #116E63;
   --footer-text-color: #F5FAFF;
 }
